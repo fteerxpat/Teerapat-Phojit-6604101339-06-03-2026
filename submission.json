@@ -1,0 +1,21 @@
+{
+
+  "student_id": "6604101339",
+
+  "name": "นายธีรภัทร พอจิต",
+
+  "github_repo": "https://github.com/USERNAME/REPO-NAME",
+
+  "backend_base_url": "https://teerapat-phojit-6604101339-06-03-2026.onrender.com",
+
+  "frontend_url": "https://xxx.netlify.app",
+
+  "api": {
+
+    "health": "https://xxx.onrender.com/api/health",
+
+    "tasks": "https://xxx.onrender.com/api/tasks"
+
+  }
+
+}
