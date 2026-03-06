@@ -44,6 +44,10 @@ app.get('/api/demo', (req, res) => {
   });
 });
 
+app.get('/api/health', (req, res) => {
+  res.status(200).json({ ok: true });
+});
+
 // health check root
 app.get('/', (_req, res) => {
   res.json({
