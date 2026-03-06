@@ -38,6 +38,12 @@ app.get('/api/demo', (req, res) => {
     });
 });
 
+// 👇👇👇 เพิ่มโค้ด /api/health ตรงนี้ครับ 👇👇👇
+app.get('/api/health', (req, res) => {
+    res.status(200).json({ ok: true });
+});
+// 👆👆👆 สิ้นสุดส่วนที่เพิ่ม 👆👆👆
+
 // Error handling
 app.use((err, req, res, next) => {
     console.error(err.stack);

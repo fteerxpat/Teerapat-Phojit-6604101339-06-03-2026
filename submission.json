@@ -8,13 +8,13 @@
 
   "backend_base_url": "https://teerapat-phojit-6604101339-06-03-2026.onrender.com",
 
-  "frontend_url": "https://xxx.netlify.app",
+  "frontend_url": "https://69aa77ab85124d0008f81543--teerapat-phojit-6604101339-06-03-2026.netlify.app/#/",
 
   "api": {
 
     "health": "https://xxx.onrender.com/api/health",
 
-    "tasks": "https://xxx.onrender.com/api/tasks"
+    "tasks": "https://teerapat-phojit-6604101339-06-03-2026.onrender.com/api/tasks"
 
   }
 
